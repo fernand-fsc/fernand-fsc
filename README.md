@@ -1,5 +1,7 @@
 ## BEM VINDO AO MEU GITHUB
 
+![Snake animation](https://github.com/fernand-fsc/fernand-fsc/blob/output/github-contribution-grid-snake.svg)
+
 Olá, eu sou Fernando Santos! Sou um analista de suporte que decidiu migrar para a área de desenvolvimento Web, com o objetivo de me tornar um desenvolvedor front-end.
 Comecei minha carreira como arquivista em um escritório varejista, mas rapidamente percebi que minha paixão estava na área de tecnologia. Desde então, tenho dedicado meu tempo a estudar as mais recentes tecnologias do mercado, com um foco especial em HTML, CSS, JavaScript, React, TypeScript e Bootstrap.
 
